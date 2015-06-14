@@ -11,7 +11,7 @@ import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameters;
 
 //러너 지정
-@RunWith(value=Parameterized.class)
+@RunWith(Parameterized.class)
 public class ParameterizedTest {
 
 	private double expected;
