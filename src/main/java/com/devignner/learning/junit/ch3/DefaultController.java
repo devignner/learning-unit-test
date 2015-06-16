@@ -1,4 +1,4 @@
-package com.devignner.learning.junit;
+package com.devignner.learning.junit.ch3;
 
 import java.util.HashMap;
 import java.util.Map;

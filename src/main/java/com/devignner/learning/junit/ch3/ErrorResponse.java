@@ -1,4 +1,4 @@
-package com.devignner.learning.junit;
+package com.devignner.learning.junit.ch3;
 
 public class ErrorResponse implements Response {
 	private Request originalRequest;
